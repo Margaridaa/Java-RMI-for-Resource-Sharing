@@ -9,7 +9,7 @@ The cars can be rented by anyone or reserved - if they are currently rented to s
 
 After returning a rented car, the individual who first reserved that car will be notified that the car became available and has been rented by the individual automatically.
 
-#### :scroll: Detailed Portuguese Description of the Program :point_right: shorturl.at/mIPW8
+#### :scroll: Detailed Portuguese Description of the Application :point_right: shorturl.at/mIPW8
 
 ## Options
 
