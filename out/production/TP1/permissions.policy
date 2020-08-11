@@ -1,0 +1,4 @@
+grant {
+    permission java.io.FilePermission "carros.txt", "read,write";
+    permission java.net.SocketPermission "*:1024-65535", "listen,accept,connect";
+};
